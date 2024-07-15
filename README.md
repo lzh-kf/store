@@ -5,4 +5,4 @@
 2. 实现数据订阅方法subscribe。
 3. 实现数据更新方法patch。
 <br/>
-[部署地址](https://lzh-kf.github.io/store)
+[演示地址](https://lzh-kf.github.io/store)
